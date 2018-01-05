@@ -1,0 +1,46 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: KlinicSlab.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 8.5 in x 11 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Klinic Slab Bold Italic (OTF)
+Klinic Slab Book Italic (OTF)
+Klinic Slab Light Italic (OTF)
+Klinic Slab Medium Italic (OTF)
+Klinic Slab Bold (OTF)
+Klinic Slab Book (OTF)
+Klinic Slab Light (OTF)
+Klinic Slab Medium (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
