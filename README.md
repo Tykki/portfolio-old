@@ -1,6 +1,6 @@
-# Supreme
+# Tykki's Web Portfolio
 
-## Usage
+<!-- ## Usage
 
 ### Basic Usage
 
@@ -23,3 +23,4 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
 
+ -->
